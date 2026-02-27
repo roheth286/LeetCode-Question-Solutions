@@ -15,17 +15,23 @@ This repository contains my implementations and solutions to LeetCode problems. 
 
 ```
 LeetCode_Questions_Codes/
-└── Linked List/
-    ├── Easy/
-    │   ├── Two Sum.ipynb
-    │   ├── Palindrome Number.ipynb
-    │   ├── Merge Two Sorted Lists.ipynb
-    │   └── ... (12 problems total)
-    └── Medium/
-        ├── Swap Nodes in Pairs.ipynb
-        ├── Add Two Numbers.ipynb
-        ├── Reverse Linked List II.ipynb
-        └── ... (14 problems total)
+├── Linked List/
+│   ├── Easy/
+│   │   ├── Two Sum.ipynb
+│   │   ├── Palindrome Number.ipynb
+│   │   ├── Merge Two Sorted Lists.ipynb
+│   │   └── ... (12 problems total)
+│   └── Medium/
+│       ├── Swap Nodes in Pairs.ipynb
+│       ├── Add Two Numbers.ipynb
+│       ├── Reverse Linked List II.ipynb
+│       └── ... (14 problems total)
+└── Trees/
+    └── Easy/
+        ├── Binary Tree Inorder Traversal.ipynb
+        ├── Binary Tree Preorder Traversal.ipynb
+        ├── Binary Tree Postorder Traversal.ipynb
+        └── ... (7 problems total)
 ```
 
 ## About .ipynb Files
@@ -42,16 +48,19 @@ This format allows for easy viewing, reference, and version control of both prob
 - **Easy Problems**: 12 problems covering fundamentals like reversal, cycle detection, merging, and traversal
 - **Medium Problems**: 14 problems covering advanced operations like node deletion, sorting, and complex transformations
 
+### Trees
+- **Easy Problems**: 7 problems covering fundamentals like tree traversals, depth calculations, and path sums
+
 ## Getting Started
 
-1. Navigate to the `Linked List` folder
+1. Navigate to any folder
 2. Choose between `Easy` or `Medium` difficulty
 3. Open any `.ipynb` file to view the problem and its C solution
 
 ## Future Plans
 
 - Add solutions for Arrays
-- Add solutions for Trees and Graphs
+- Add solutions for Graphs
 - Add solutions for Dynamic Programming problems
 - Include complexity analysis for each solution
 - Add test cases and edge case handling documentation
