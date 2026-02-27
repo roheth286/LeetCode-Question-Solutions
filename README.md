@@ -4,7 +4,7 @@ A comprehensive collection of my solutions to LeetCode coding problems. This rep
 
 ## About This Repository
 
-This repository contains my implementations and solutions to LeetCode problems. I am currently focused on **Linked List** problems and plan to expand to other data structures in the future, including:
+This repository contains my implementations and solutions to LeetCode problems. I am currently focused on **Linked List** and **Trees** problems and plan to expand to other data structures in the future, including:
 - Arrays
 - Trees
 - Graphs
